@@ -14,6 +14,15 @@ A repository to document my learning about Ethereum.
 
 ## Tips
 
+## Testnet Faucet
+- https://goerlifaucet.com/ (Goerli testnet, 0.02 ETH per drip)
+- https://faucets.chain.link/goerli (Goerli testnet, 20 LINK per drip, can be swapped to ETH)
+- https://www.infura.io/faucet/sepolia (Sepolia testnet)
+
+## DEX
+- [Uniswap](https://app.uniswap.org/#/swap)
+- [1inch](https://app.1inch.io/)
+
 ## Whitepapers
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 - [Ethereum: The Ultimate Smart Contract and Decentralized Application Platform](https://ethereum.org/en/whitepaper/)
