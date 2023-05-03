@@ -12,6 +12,9 @@ A repository to document my learning about Ethereum.
 
 ## Useful Commands to Set Up Projects
 
+## Useful Videos
+- [Blockchain 101 - A Visual Demo](https://www.youtube.com/watch?v=_160oMzblY8)
+
 ## Tips
 
 ## Testnet Faucet
