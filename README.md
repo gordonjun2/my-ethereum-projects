@@ -20,6 +20,7 @@ A repository to document my learning about Ethereum.
 ## Testnet Faucet
 - https://goerlifaucet.com/ (Goerli testnet, 0.02 ETH per drip)
 - https://faucets.chain.link/goerli (Goerli testnet, 20 LINK per drip, can be swapped to ETH)
+- https://faucets.chain.link/sepolia (Sepolia testnet, 0.1 ETH and 20 LINK per drip, can be swapped to ETH)
 - https://www.infura.io/faucet/sepolia (Sepolia testnet, 0.5 ETH per drip)
 - https://sepoliafaucet.com/ (Sepolia testnet, 0.5 ETH per drip)
 
