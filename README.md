@@ -17,6 +17,10 @@ A repository to document my learning about Ethereum.
 
 ## Tips
 
+## Useful Information and Websites
+- 1 Ether = 1,000,000,000,000,000,000 Wei
+- [Ether Unit Converter](https://etherscan.io/unitconverter)
+
 ## Testnet Faucet
 - https://goerlifaucet.com/ (Goerli testnet, 0.02 ETH per drip)
 - https://faucets.chain.link/goerli (Goerli testnet, 20 LINK per drip, can be swapped to ETH)
