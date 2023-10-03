@@ -20,6 +20,8 @@ A repository to document my learning about Ethereum.
 ## Useful Information and Websites
 - 1 Ether = 1,000,000,000,000,000,000 Wei
 - [Ether Unit Converter](https://etherscan.io/unitconverter)
+- [EVM OPCODE Gas Costs](https://github.com/djrtwo/evm-opcode-gas-costs)
+- [Mnemonic Code Converter](https://iancoleman.io/bip39/)
 
 ## Testnet Faucet
 - https://goerlifaucet.com/ (Goerli testnet, 0.02 ETH per drip)
