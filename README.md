@@ -7,6 +7,9 @@ A repository to document my learning about Ethereum.
 - [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide)
 
 ## General Installation
+- [Node.js](https://nodejs.org/en/download/) (install the LTS version)
+- Git
+- Code Editor (eg. VSCode, Atom, etc)
 
 ## Useful APIs / CLI References
 
