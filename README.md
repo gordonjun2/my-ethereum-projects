@@ -25,6 +25,10 @@ A repository to document my learning about Ethereum.
 - [Ether Unit Converter](https://etherscan.io/unitconverter)
 - [EVM OPCODE Gas Costs](https://github.com/djrtwo/evm-opcode-gas-costs)
 - [Mnemonic Code Converter](https://iancoleman.io/bip39/)
+- [Infura](https://www.infura.io/)
+- [Etherscan - Mainnet](https://etherscan.io/)
+- [Etherscan - Sepolia](https://sepolia.etherscan.io/)
+- [Etherscan - Ethereum Gas Tracker](https://etherscan.io/gastracker)
 
 ## Testnet Faucet
 - https://goerlifaucet.com/ (Goerli testnet, 0.02 ETH per drip)
