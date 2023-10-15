@@ -29,6 +29,9 @@ A repository to document my learning about Ethereum.
 - [Etherscan - Mainnet](https://etherscan.io/)
 - [Etherscan - Sepolia](https://sepolia.etherscan.io/)
 - [Etherscan - Ethereum Gas Tracker](https://etherscan.io/gastracker)
+- [Stephen Grider (Instructor of Udemy's Ethereum and Solidity: The Complete Developer's Guide)'s GitHub Page](https://github.com/stephengrider)
+- [Redux Simple Starter](https://github.com/StephenGrider/ReduxSimpleStarter)
+- [Babel](https://babeljs.io/)
 
 ## Testnet Faucet
 - https://goerlifaucet.com/ (Goerli testnet, 0.02 ETH per drip)
