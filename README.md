@@ -33,6 +33,7 @@ A repository to document my learning about Ethereum.
 - [Redux Simple Starter](https://github.com/StephenGrider/ReduxSimpleStarter)
 - [Babel](https://babeljs.io/)
 - [Ethereum KickStart web site created with Vue](https://github.com/peelmicro/ethereum-kickstart-vue)
+- [Next.js](https://github.com/vercel/next.js)
 
 ## Testnet Faucet
 - https://goerlifaucet.com/ (Goerli testnet, 0.02 ETH per drip)
