@@ -7,7 +7,7 @@ var privateInfo;
 
 try {
     privateInfo = JSON.parse(
-        fs.readFileSync('private.json', "utf8")
+        fs.readFileSync('../private.json', "utf8")
     );
 } catch {
     console.log('The file private.json has not been found.\nExiting process...');
