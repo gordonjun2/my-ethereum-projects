@@ -34,6 +34,7 @@ A repository to document my learning about Ethereum.
 - [Babel](https://babeljs.io/)
 - [Ethereum KickStart web site created with Vue](https://github.com/peelmicro/ethereum-kickstart-vue)
 - [Next.js](https://github.com/vercel/next.js)
+- [Semantic UI React](https://react.semantic-ui.com/)
 
 ## Testnet Faucet
 - https://goerlifaucet.com/ (Goerli testnet, 0.02 ETH per drip)
