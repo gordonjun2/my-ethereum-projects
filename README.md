@@ -18,8 +18,6 @@ A repository to document my learning about Ethereum.
 ## Useful Videos
 - [Blockchain 101 - A Visual Demo](https://www.youtube.com/watch?v=_160oMzblY8)
 
-## Tips
-
 ## Useful Information and Websites
 - 1 Ether = 1,000,000,000,000,000,000 Wei
 - [Ether Unit Converter](https://etherscan.io/unitconverter)
@@ -35,6 +33,7 @@ A repository to document my learning about Ethereum.
 - [Ethereum KickStart web site created with Vue](https://github.com/peelmicro/ethereum-kickstart-vue)
 - [Next.js](https://github.com/vercel/next.js)
 - [Semantic UI React](https://react.semantic-ui.com/)
+- [Dynamic Routes for Next.js](https://github.com/fridays/next-routes)
 
 ## Testnet Faucet
 - https://goerlifaucet.com/ (Goerli testnet, 0.02 ETH per drip)
@@ -51,3 +50,6 @@ A repository to document my learning about Ethereum.
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 - [Ethereum: The Ultimate Smart Contract and Decentralized Application Platform](https://ethereum.org/en/whitepaper/)
 
+## Tips
+- If '***Solidity Error: We were not able to estimate gas. There might be an error in the contract and this transaction may fail***'
+  occurs, see https://stackoverflow.com/questions/73730230/solidity-error-we-were-not-able-to-estimate-gas-there-might-be-an-error-in-the.
