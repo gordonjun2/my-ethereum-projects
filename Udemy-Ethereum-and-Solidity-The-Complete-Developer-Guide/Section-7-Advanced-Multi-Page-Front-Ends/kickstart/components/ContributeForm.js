@@ -28,11 +28,11 @@ class ContributeForm extends Component {
                 });
 
             Router.replaceRoute(`/campaigns/${this.props.address}`);
+            this.setState({ loading: false, value: '' });
         } catch (err) {
-            this.setState( { errorMessage: err.message } );
+            this.setState( { errorMessage: err.message, loading: false } );
         }
-
-        this.setState({ loading: false, value: '' });
+        
     };
 
     render() {
